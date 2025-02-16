@@ -12,7 +12,7 @@ bot.onText(/\/start/, (msg) => {
     const imageUrl = 'home.png';
 
     // Message text
-    const text = `🚀 Explore 80+ Games & AI Tools!\n🧠 Chat with AI, Stay Updated on Crypto!\n🎮 Play, Earn & Have Fun – All in One App!\n🔥 Latest AI Models at Your Fingertips!\n📢 Get Real-Time Crypto News & Insights!\n💡 Unlock Exclusive AI & Gaming Features!\n🔗 Your Ultimate AI & Gaming Hub Awaits!\n✨ Discover, Play & Stay Ahead!\n👾 Smart AI + Fun Games = Endless Entertainment!\n🚀 Start Now & Experience the Future!\n\n💰 If you need the source code of this mini app, contact me. Price: **$15**`;
+    const text = `🚀 Explore the something unique!\n🧠 Earn free Crypto using your gaming skill!\n🎮 Play, Earn & Have Fun!\n🔥 Latest AI Models at Your Fingertips!\n📢 Get Real-Time Crypto Earning for your priceless Time!\n💡 Unlock Exclusive AI & Gaming Features!\n🔗 Your Ultimate AI & Gaming Hub Awaits!\n✨ Discover, Play & Stay Ahead!\n👾 Smart AI + Fun Games = Endless Entertainment!\n🚀 Start Now & Experience the Future!\n\n💰 `;
 
     // Buttons
     const options = {
