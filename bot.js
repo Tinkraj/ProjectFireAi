@@ -18,10 +18,9 @@ bot.onText(/\/start/, (msg) => {
     const options = {
         reply_markup: {
             inline_keyboard: [
-                [{ text: '🎮 Play', url: 'https://t.me/HTMLHEROTGHUB_bot/HTMLHERO' }],
-                [{ text: '🌐 Join TG Community', url: 'https://t.me/chtmlhero' }],
-                [{ text: '📩 Contact Me on Telegram', url: 'https://t.me/Htmlhero12' }],
-                [{ text: '📞 Contact Me on WhatsApp', url: 'https://wa.me/923474494024' }]
+                [{ text: '🎮 Play', url: 'https://t.me/ProjectFireAi_bot' }],
+                [{ text: '🌐 Join TG Community', url: 'https://t.me/ProjectFireAI' }],
+            
             ]
         }
     };
