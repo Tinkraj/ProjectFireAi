@@ -18,7 +18,7 @@ bot.onText(/\/start/, (msg) => {
     const options = {
         reply_markup: {
             inline_keyboard: [
-                [{ text: '🎮 Play', url: 'https://t.me/ProjectFireAi_bot' }],
+                [{ text: '🎮 Play', url: 'https://projectfireai.netlify.app/' }],
                 [{ text: '🌐 Join TG Community', url: 'https://t.me/ProjectFireAI' }],
             
             ]
