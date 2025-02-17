@@ -12,7 +12,16 @@ bot.onText(/\/start/, (msg) => {
     const imageUrl = 'home.png';
 
     // Message text
-    const text = `🚀 Explore the something unique!\n🧠 Earn free Crypto using your gaming skill!\n🎮 Play, Earn & Have Fun!\n🔥 Latest AI Models at Your Fingertips!\n📢 Get Real-Time Crypto Earning for your priceless Time!\n💡 Unlock Exclusive AI & Gaming Features!\n🔗 Your Ultimate AI & Gaming Hub Awaits!\n✨ Discover, Play & Stay Ahead!\n👾 Smart AI + Fun Games = Endless Entertainment!\n🚀 Start Now & Experience the Future!\n\n💰 `;
+    const text = `🚀 Explore Something Unique with AI & Gaming!
+
+Unleash your gaming skills and earn free crypto while having fun! 🎮💰 With cutting-edge AI models at your fingertips, you can play, compete, and grow your funds effortlessly.
+
+🔥 Real-time crypto rewards for your priceless time!
+💡 Unlock exclusive AI & gaming features tailored for the future.
+🔗 Your ultimate AI & gaming hub is here—stay ahead with the latest innovations!
+
+👾 Smart AI + Fun Games = Endless Entertainment!
+🚀 Start now & experience the future of AI-powered gaming! `;
 
     // Buttons
     const options = {
